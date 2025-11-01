@@ -1,7 +1,7 @@
 #EXTM3U   
 
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
-https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV 3
+https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 
 #EXTINF:-1 group-title="LATINO",01.5AmericaTV
