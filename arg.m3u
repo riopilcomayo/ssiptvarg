@@ -272,7 +272,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 http://190.7.19.197:232/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26
-http://45.5.151.62:8000/play/a028/index.m3u8
+http://190.7.19.197:232/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxY8DBowzBJ2C7HFrjZpjVZzHXq1hy0oL5vA&s" group-title="NOTICIAS NACIONALES", CRONICA HD 
 http://201.217.246.177:8000/play/a01q/index.m3u8
