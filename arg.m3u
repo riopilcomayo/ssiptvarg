@@ -284,7 +284,7 @@ http://200.80.230.125:8000/play/a01o/index.m3u8
 http://190.104.67.230:234/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
-http://181.209.125.237:9000/play/a039/index.m3u8
+http://190.7.19.197:232/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
 http://190.104.67.230:234/play/a05y/index.m3u8
