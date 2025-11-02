@@ -137,7 +137,7 @@ http://190.7.19.197:232/play/a037/index.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
-https://g4.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+http://190.7.19.197:232/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
 http://190.104.67.230:234/play/a08k/index.m3u8
