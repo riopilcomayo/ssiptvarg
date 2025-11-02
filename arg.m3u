@@ -1747,7 +1747,7 @@ https://videostream.shockmedia.com.ar:19360/universoradio895/universoradio895.m3
 https://stmv3.voxtvhd.com.br/radiorawson/radiorawson/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radioconexionweb.com.ar/img/BANNER.png" group-title="CHUBUT", Radio Conexión Web Trelew
-https://videohd.live:19360/8046/8046.m3u8
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", La Bocha 99.9 FM Puerto Madryn
 https://inliveserver.com:1936/12040/12040/playlist.m3u8
