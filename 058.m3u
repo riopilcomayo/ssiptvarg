@@ -13,7 +13,7 @@ https://cdn01.oplay.tv/espn3/index.m3u8
 #EXTINF:-1, canal 9
 https://cdn01.oplay.tv/canal_9/index.m3u8
 
-#EXTINF:-1, america
+#EXTINF:-1, america tv
 https://cdn01.oplay.tv/america_sports/index.m3u8
 
 
@@ -41,7 +41,7 @@ https://cdn01.oplay.tv/telefe/index.m3u8
 #EXTINF:-1, tn
 https://cdn01.oplay.tv/tn/index.m3u8
 
-#EXTINF:-1, tyc
+#EXTINF:-1, tyc sports
 https://cdn01.oplay.tv/tyc_sports/index.m3u8
 
 #EXTINF:-1, cinemax
@@ -64,7 +64,7 @@ https://cdn01.oplay.tv/hbo_family/index.m3u8
 https://cdn01.oplay.tv/hbo2/index.m3u8
 
 #EXTINF:-1, hbo
-https://cdn01.oplay.tv/hbo/index.m3u8
+https://cdn02.oplay.tv/hbo/index.m3u8
 
 #EXTINF:-1, discovery kids
 https://cdn01.oplay.tv/discovery_kids/index.m3u8
@@ -78,10 +78,10 @@ https://cdn01.oplay.tv/amc/index.m3u8
 #EXTINF:-1, discovery
 https://cdn01.oplay.tv/discovery_channel/index.m3u8
 
-#EXTINF:-1, tv publica
+#EXTINF:-1, tvpublica
 https://cdn01.oplay.tv/tv_publica/index.m3u8
 
-#EXTINF:-1, tv publica
+#EXTINF:-1, el trece
 https://cdn01.oplay.tv/el_trece/index.m3u8
 
 #EXTINF:-1, tnt sports
@@ -89,7 +89,6 @@ https://cdn01.oplay.tv/tnt_sports/index.m3u8
 
 #EXTINF:-1, espn premiun
 https://cdn02.oplay.tv/fox_sports_premium/index.m3u8
-
 
 #EXTINF:-1, cnn
 https://cdn01.oplay.tv/cnn/index.m3u8
