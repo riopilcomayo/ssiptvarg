@@ -33,7 +33,7 @@ https://cdn01.oplay.tv/star_channel/index.m3u8
 https://cdn01.oplay.tv/ln/index.m3u8
 
 #EXTINF:-1, fx
-https://cdn02.oplay.tv/fx/index.m3u8
+https://cdn01.oplay.tv/fx/index.m3u8
 
 #EXTINF:-1, telefe
 https://cdn01.oplay.tv/telefe/index.m3u8
