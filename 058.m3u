@@ -13,6 +13,93 @@ https://cdn01.oplay.tv/espn3/index.m3u8
 #EXTINF:-1, canal 9
 https://cdn01.oplay.tv/canal_9/index.m3u8
 
+#EXTINF:-1, america
+https://cdn01.oplay.tv/america_sports/index.m3u8
+
+
+#EXTINF:-1, disney
+https://cdn01.oplay.tv/disney_channel/index.m3u8
+
+#EXTINF:-1, discovery turbo
+https://cdn01.oplay.tv/discovery_turbo/index.m3u8
+
+#EXTINF:-1, discovery science
+https://cdn01.oplay.tv/discovery_science/index.m3u8
+
+#EXTINF:-1, star channel
+https://cdn01.oplay.tv/star_channel/index.m3u8
+
+#EXTINF:-1, la nacion +
+https://cdn01.oplay.tv/ln/index.m3u8
+
+#EXTINF:-1, fx
+https://cdn02.oplay.tv/fx/index.m3u8
+
+#EXTINF:-1, telefe
+https://cdn01.oplay.tv/telefe/index.m3u8
+
+#EXTINF:-1, tn
+https://cdn01.oplay.tv/tn/index.m3u8
+
+#EXTINF:-1, tyc
+https://cdn01.oplay.tv/tyc_sports/index.m3u8
+
+#EXTINF:-1, cinemax
+https://cdn01.oplay.tv/cinemax/index.m3u8
+
+#EXTINF:-1, hbo signature
+https://cdn01.oplay.tv/hbo_signature/index.m3u8
+
+#EXTINF:-1, hbo plus
+https://cdn01.oplay.tv/hbo_plus/index.m3u8
+
+#EXTINF:-1, hbo mundi
+https://cdn01.oplay.tv/hbo_mundi/index.m3u8
+
+
+#EXTINF:-1, hbo family
+https://cdn01.oplay.tv/hbo_family/index.m3u8
+
+#EXTINF:-1, hbo 2
+https://cdn01.oplay.tv/hbo2/index.m3u8
+
+#EXTINF:-1, hbo
+https://cdn01.oplay.tv/hbo/index.m3u8
+
+#EXTINF:-1, discovery kids
+https://cdn01.oplay.tv/discovery_kids/index.m3u8
+
+#EXTINF:-1, id
+https://cdn01.oplay.tv/discovery_id/index.m3u8
+
+#EXTINF:-1, amc
+https://cdn01.oplay.tv/amc/index.m3u8
+
+#EXTINF:-1, discovery
+https://cdn01.oplay.tv/discovery_channel/index.m3u8
+
+#EXTINF:-1, tv publica
+https://cdn01.oplay.tv/tv_publica/index.m3u8
+
+#EXTINF:-1, tv publica
+https://cdn01.oplay.tv/el_trece/index.m3u8
+
+#EXTINF:-1, tnt sports
+https://cdn01.oplay.tv/tnt_sports/index.m3u8
+
+#EXTINF:-1, espn premiun
+https://cdn02.oplay.tv/fox_sports_premium/index.m3u8
+
+
+#EXTINF:-1, cnn
+https://cdn01.oplay.tv/cnn/index.m3u8
+
+#EXTINF:-1, tnt
+https://cdn01.oplay.tv/tnt/index.m3u8
+
+#EXTINF:-1, venus
+https://cdn01.oplay.tv/venus/index.m3u8
+
 
 
 
