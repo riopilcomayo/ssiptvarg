@@ -146,7 +146,7 @@ http://190.104.67.230:234/play/a08k/index.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
-http://201.217.246.177:8000/play/a06d/index.m3u8
+https://cdn01.oplay.tv/el_trece/index.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
 https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
