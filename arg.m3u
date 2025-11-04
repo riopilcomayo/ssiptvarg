@@ -2856,7 +2856,11 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 https://inliveserver.com:1936/9030/9030/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OUx3MrU8EFk/WDyKrgWT7xI/AAAAAAAABPI/GMsSZyCV_HYjqZaCrlKU13d82a3mI45mgCLcB/s1600/c10-tucuman.png" group-title="TUCUMAN", CANAL 10 TUCUMAN
+http://liketv.pro:80/User1626/28TM4MEU66/216050.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TUCUMAN", EL OCHO TUCUMAN
+http://liketv.pro:80/User1626/28TM4MEU66/126480.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.canal5tucuman.com.ar/img/BANNER.png" group-title="TUCUMAN", CANAL 5 TUCUMAN
