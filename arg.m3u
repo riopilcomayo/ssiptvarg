@@ -928,6 +928,11 @@ http://201.217.246.177:8000/play/a02c/index.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
 http://45.195.110.121:8000/play/a067/index.m3u8
 
@@ -1052,6 +1057,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", ANIME ONEGAI TV PLUS 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+
+
 
 
 
@@ -1451,6 +1459,8 @@ http://200.59.188.3:8000/play/a0kg
 
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/orbe-21.png" group-title="TELECENTRO", ORBE 21 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+
 
 
 
