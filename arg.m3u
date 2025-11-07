@@ -1635,6 +1635,9 @@ https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skylabsanjusto.com.ar/img/skylab.png" group-title="RADIO-AMBA", Skylab 99.7 FM San Justo
 https://videohd.live:19360/8014/8014.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmlapatriada.com.ar/img/logo.png" group-title="RADIO-AMBA", La Patriada 102.1 FM
+https://5f700d5b2c46f.streamlock.net/fmlapatriada/fmlapatriada/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
 
@@ -1888,6 +1891,19 @@ https://panel.host-live.com:19360/8114/8114.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RADIO-PCIA BS AS", Maximo Paz 98.9 FM
 https://vivo.solumedia.com:19360/maximopaz/maximopaz.m3u8
+
+#EXTINF:-1 tvg-logo="https://lavilla.com.ar/wp-content/uploads/2025/10/300-7.png" group-title="RADIO-PCIA BS AS", La Villa 91.1 FM Villa Gesell
+https://tuvideoonline.com.ar:3858/live/argentolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radio92siete.com/img/logo_1733922979.png" group-title="RADIO-PCIA BS AS", 92 Siete 92.7 FM Chivilcoy
+https://inliveserver.com:1936/9000/9000/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
