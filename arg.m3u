@@ -1949,6 +1949,9 @@ https://videohd.live:19360/8048/8048.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5f7a92cd22cec427c97518c7d981ded.png" group-title="CHACO", MAXIMA FM 89.9 CHACO
 https://glb.bozztv.com/glb/ssh101/maximafmchaco/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://losprotagonistastv.com.ar/wp-content/uploads/2025/03/banerlogo2025-1.jpg" group-title="CHACO", Resistencia 90.3 FM
+https://tv.streamcasthd.com:3330/live/losprotagonistastvlive.m3u8
+
 
 
 
