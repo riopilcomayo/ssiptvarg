@@ -158,9 +158,6 @@ https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B3H8vfrbLNJxxqvuUQlNEKkNjKDe7ezODA&s" group-title="NACIONALES", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="NACIONALES", LOS SIMPSONS
-http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://200.219.40.1:8000/play/a01m/index.m3u8
 
@@ -257,6 +254,9 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f5/c5/28f5c51e-f86a-27d4-1260-a58688f1a26f/futurock-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/1200x630wa.png" group-title="NACIONALES", FUTUROCK
+https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/output.mpd
 
 
 
