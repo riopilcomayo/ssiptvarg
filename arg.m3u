@@ -1974,6 +1974,9 @@ https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1 tvg-logo="https://canal12web.com/wp-content/uploads/2022/07/cropped-Logo-12-Web-OK-1-150x150.png?v=1659038912" group-title="CHUBUT", Canal 12 PUERTO MADRYN
 https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FibGUuY2FuYWxyaW9tYXlvX3NjcmVlbl8wXzE2MTAwMzE3NjdfMDI0/screen-0.jpg?fakeurl=1&type=.jpg" group-title="CHUBUT", Cable Canal 7 Rio Mayo (SOLO NOTICIERO)
+https://panel.host-live.com:19360/20016/20016.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOkSVI7YTJlTwRvuA6tbs-5Tjn3A0QL0jsCVj_1DA=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", FM KAIZEN 103.5 TRELEW
 https://vivo.solumedia.com:19360/kaizen/kaizen.m3u8
 
@@ -1992,7 +1995,8 @@ https://inliveserver.com:1936/12040/12040/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPARA42.png" group-title="CHUBUT", Paraiso 42 95.5 FM El Hoyo
 https://inliveserver.com:1936/12048/12048/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1cee96_3449d311ec9941dca4f1a9e3fa9c6eef~mv2.png/v1/fill/w_240,h_189,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20ISONICA%202023%20PNG.png" group-title="CHUBUT", ISonica 102.1 FM Lago Puelo
+https://inliveserver.com:1936/12048/12048/playlist.m3u8
 
 
 
