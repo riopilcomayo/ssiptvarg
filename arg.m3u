@@ -2289,6 +2289,9 @@ https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRTVcnmmAkoZQNZhY0vnolhXk83DdMskL2gdSN1UFwNePMNHAYTu6jPfmqfEwbNiC1ZOiRMJ4VBSGoJySEYXkdEB0E5r44iNtqKrCzzP1Wwy7YPOaKvAHL6zl29x8JGdgChwO2uJqNzwyeYaDJ8PsDsvRRUUpuHvD3ULJRUUNxt0UoEz_YLqdwcO8R4E/s200-rw/54537430079017.png" group-title="CORRIENTES", El Sauce TV
 https://smt-usr-edge02.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
 
+#EXTINF:-1 tvg-logo="https://www.aurastreaming.com.ar/img/banner25.png" group-title="CORRIENTES", Aura Streaming
+https://videohd.live:19360/8044/8044.m3u8
+
 
 
 
