@@ -3082,8 +3082,8 @@ https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyJaKO8_n7al8-j7qmcryH7tXfxrrhtGoag&s" group-title="RADIO - SANTA FE", Cadena 2000 106.1 FM San Guillermo
 https://videostream.shockmedia.com.ar:19360/cadena2000/cadena2000.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnGzc4VNkAdkDAa6XUd2yPMMRx1c9YC2WYA&s" group-title="RADIO - SANTA FE", Radio Rock 24 Casilda
+https://vivo.solumedia.com:19360/rock24/rock24.m3u8
 
 
 
