@@ -176,6 +176,9 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
 http://138.121.114.86:8000/play/a05t/index.m3u8
 
+#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="NACIONALES", El Reino Infantil
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
+
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
 http://201.217.246.177:8000/play/a024/index.m3u8
 
@@ -219,8 +222,8 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/featuredImage_1759245750534.jpg" group-title="NACIONALES", TELEFE PLUTO TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="68224482c5d53e1351aaf2f2" tvg-name="Canal Claro" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="NACIONALES", Canal Claro
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
 http://201.217.246.177:8000/play/a02g/index.m3u8
@@ -255,8 +258,6 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f5/c5/28f5c51e-f86a-27d4-1260-a58688f1a26f/futurock-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/1200x630wa.png" group-title="NACIONALES", FUTUROCK
-https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/output.mpd
 
 
 
@@ -1638,6 +1639,9 @@ https://videohd.live:19360/8014/8014.m3u8
 #EXTINF:-1 tvg-logo="https://fmlapatriada.com.ar/img/logo.png" group-title="RADIO-AMBA", La Patriada 102.1 FM
 https://5f700d5b2c46f.streamlock.net/fmlapatriada/fmlapatriada/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f5/c5/28f5c51e-f86a-27d4-1260-a58688f1a26f/futurock-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/1200x630wa.png" group-title="RADIO-AMBA", FUTUROCK
+https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/output.mpd
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
 
@@ -1652,6 +1656,7 @@ http://server.laradio.online:25224/live.mp3
 
 #EXTINF:-1 tvg-logo="https://fmfutura.com.ar/wp-content/uploads/2009/10/Futura-Podcast2.gif" group-title="RADIO-AMBA", RADIO FUTURA 90.5 LA PLATA (SOLO AUDIO)
 http://streamer.fmfutura.com.ar:8000/vivo.mp3
+
 
 
 
