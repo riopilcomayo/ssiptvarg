@@ -1639,6 +1639,9 @@ https://5f700d5b2c46f.streamlock.net/fmlapatriada/fmlapatriada/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/f5/c5/28f5c51e-f86a-27d4-1260-a58688f1a26f/futurock-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/1200x630wa.png" group-title="RADIO-AMBA", FUTUROCK
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/output.mpd
 
+#EXTINF:-1 tvg-logo="https://www.z80radio.com.ar/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-22-at-19.32.04-1.jpeg" group-title="RADIO-AMBA", Z80 Radio 96.5 FM
+https://vivo.solumedia.com:19360/z80radio/z80radio.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
 
