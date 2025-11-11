@@ -3161,10 +3161,14 @@ https://live-stream.iblups.com/video/6c3d4b49124743023c3e123612224a8179016d3e.m3
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/250px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URUGUAY", Canal 10
+http://liketv.pro:80/User1626/28TM4MEU66/187879.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logotipo_de_Teledoce_Uruguay_08012013_085909_p.m.jpg" group-title="URUGUAY", Teledoce
+http://liketv.pro:80/User1626/28TM4MEU66/187880.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal4_uy.png/150px-Canal4_uy.png" group-title="URUGUAY", Canal 4
+http://liketv.pro:80/User1626/28TM4MEU66/187877.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/5ltnu.svg/250px-5ltnu.svg.png" group-title="URUGUAY", Canal 5
+http://liketv.pro:80/User1626/28TM4MEU66/187888.ts
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n-ToclaJnhU/YTo17oV6nPI/AAAAAAAAQgk/YKWlAtGijwkfrlfVixbJ4sK3uYB9cKXDwCLcBGAsYHQ/s1152/canal-tvflorida-en-vivo_optimized.jpg" group-title="URUGUAY", TVF FLORIDA UY
 https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
