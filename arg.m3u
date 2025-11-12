@@ -1026,7 +1026,7 @@ https://fractaltv-samsungspain.amagi.tv/hls/amagi_hls_data_samsungsp-fractal-tel
 #EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="INFANTIL", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", Canal Anime Onegai 
+#EXTINF:-1 tvg-logo="https://canales.netvgroup.com/uploads/ztv.png" group-title="ANIME - TEEN", ZTV 
 http://38.87.224.21:2220/play/a020/index.m3u8
 
 
