@@ -2245,11 +2245,10 @@ https://nd106.republicaservers.com:4433/hls/c7632/1_0/index.m3u8?sessId=190245
 
 
 
-#EXTINF:-1 tvg-logo="https://www.13maxtv.com/wp-content/uploads/2023/08/13-max-Logo-2024.svg" group-title="CORRIENTES", 13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.13maxtv.com/wp-content/uploads/2023/08/13-max-Logo-2024.svg" group-title="CORRIENTES", 13 MAX CORRIENTES
-https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_de_Canal_13Max_Corrientes.png/250px-Logo_de_Canal_13Max_Corrientes.png" group-title="CORRIENTES", 13 MAX CORRIENTES
+https://617c5175c970b.streamlock.net:4444/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="CORRIENTES", CTV CORRIENTES
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
@@ -2257,8 +2256,11 @@ https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", CANAL G CORRIENTES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/LogoGlobalTV.png" group-title="CORRIENTES", CANAL G CORRIENTES
 http://181.78.27.128:12543/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZSOkZ7cCKJqn7p5obcY2h900ScEJDNpacKQ&s" group-title="CORRIENTES", TeleDiez
+https://stmv5.livecastv.com/infolibres/infolibres/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/814_TeleNord.png" group-title="CORRIENTES", TeleNord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
@@ -2269,7 +2271,7 @@ https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CORRIENTES", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSp8dzUU2dG_DdZJblUl8ypI-U0Njq8x9hw&s" group-title="CORRIENTES", ACV MONTE CASEROS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSp8dzUU2dG_DdZJblUl8ypI-U0Njq8x9hw&s" group-title="CORRIENTES", AVC MONTE CASEROS
 https://giatv.bozztv.com/giatv/giatv-digimediosstreamavc/digimediosstreamavc/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.yapeyucablecolor.com.ar/img/BANNER.png" group-title="CORRIENTES", Yapeyu Cable color
@@ -2284,7 +2286,7 @@ https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2022/03/sin-logo-24-43-sin.png" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
+#EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2024/12/LOGO-footer-200.webp" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
 https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRTVcnmmAkoZQNZhY0vnolhXk83DdMskL2gdSN1UFwNePMNHAYTu6jPfmqfEwbNiC1ZOiRMJ4VBSGoJySEYXkdEB0E5r44iNtqKrCzzP1Wwy7YPOaKvAHL6zl29x8JGdgChwO2uJqNzwyeYaDJ8PsDsvRRUUpuHvD3ULJRUUNxt0UoEz_YLqdwcO8R4E/s200-rw/54537430079017.png" group-title="CORRIENTES", El Sauce TV
