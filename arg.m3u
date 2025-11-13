@@ -1934,10 +1934,7 @@ https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 #EXTINF:-1 tvg-logo="https://mocovi.com.ar/wp-content/uploads/2023/07/am800.jpg" group-title="CHACO", RADIO MOCOVI AM 800 CHARATA
 https://5f700d5b2c46f.streamlock.net/am800/am800/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="CHACO", ESTACION 101.3 FM
-https://live20.bozztv.com/akamaissh101/ssh101/e1013/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="ttps://radiosargentina.com.ar/png/VIINDEPR.png" group-title="CHACO", Independencia 106.9 FM Resistencia
+#EXTINF:-1 tvg-logo="https://www.independencia1069.com.ar/img/BANNER-WEB-RADIO-2020.gif" group-title="CHACO", Independencia 106.9 FM Resistencia
 https://videohd.live:19360/8048/8048.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5f7a92cd22cec427c97518c7d981ded.png" group-title="CHACO", MAXIMA FM 89.9 CHACO
