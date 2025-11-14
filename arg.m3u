@@ -2306,9 +2306,6 @@ https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal4nogoya.com/web/wp-content/uploads/2025/04/logos-fondo-blanco-1536x705.jpg.webp" group-title="ENTRE RIOS", CANAL 4 NOGOYA
 https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
-https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
-
 #EXTINF:-1 tvg-logo="https://iteltv.com.ar/public/img/iconos/itel%20Tv%20logo.png" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
 https://proxystream.iteltv.com.ar/output/iteltv/track_0_3700/playlist.m3u8
 
@@ -2327,11 +2324,11 @@ https://panel.host-live.com:19360/8096/8096.m3u8
 #EXTINF:-1 tvg-logo="https://radiormu.com.ar/images/logo/logo_1761075689.png" group-title="ENTRE RIOS", RMU 107.5 FM  Parana
 https://cs1.xcast.com.br/8884/8884/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
+https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://cs1.xcast.com.br/7040/7040/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5  
-https://cs3.voxhd.com.br/11096/11096/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/639/retro-fm-1067.49ca5616.png" group-title="ENTRE RIOS", FM Retro TV 106.7
 https://videohd.live:19360/8096/8096.m3u8
@@ -2348,8 +2345,8 @@ https://stream.arcast.net:4443/plazavideo/ngrp:plazavideo_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094055182395162625/M7oEXHge_400x400.jpg" group-title="ENTRE RIOS", FM LITORAL 103.1 PARANA
 https://cs1.xcast.com.br/7798/7798/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio7899_1457012436.jpg" group-title="ENTRE RIOS", PLANET 95.1 FM PARANA
-https://cs1.xcast.com.br/8884/8884/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio7899_1457012436.jpg" group-title="ENTRE RIOS", Oro Verde 104.5 FM
+https://cs3.voxhd.com.br/11096/11096/playlist.m3u8
 
 
 
