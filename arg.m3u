@@ -2448,14 +2448,11 @@ http://innovatingthenet.com.ar:8001/energyai.mp3
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_KE5xzh4tUVGvJkY62MsCG3udKpDsak18a9uJ6bEhq1g6KuxSsw7KueStQlSukQPjpIUlBdkuIvEPTdsVMWS8OmSSVfCoV8hzRbVtbZt3fgoKTAnprQ8dJyQA_dnOOnEt-jOw1y2bvofywmD7BjqsmL_xsUZaum-lYb8FFdwD5zOMQ51lzS8APfXZ/s320/canal9-lr.png" group-title="LA RIOJA", CANAL 9 LA RIOJA
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="LA RIOJA", FENIX LA RIOJA
+#EXTINF:-1 tvg-logo="https://www.fenix951.com.ar/a2017/assets/imgapp/logo_2022.png" group-title="LA RIOJA", FENIX LA RIOJA
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="LA RIOJA", CANAL 13 LA RIOJA
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://diariochilecito.com/wp-content/uploads/2022/10/DiarioChilecito-com.png" group-title="LA RIOJA", CHILECITO TV
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal5tvchepes.com.ar/wp-content/uploads/2022/08/logo-canal.png" group-title="LA RIOJA", TEVE 5 CHEPES LA RIOJA
 https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
