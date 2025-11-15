@@ -1030,6 +1030,21 @@ http://38.87.224.21:2220/play/a020/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/c/3/dc3483b9f2b4c2a8689912023d27a3e9_icon.png" group-title="ANIME - TEEN", CANAL ANIME ONEGAI 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/c/3/dc3483b9f2b4c2a8689912023d27a3e9_icon.png" group-title="ANIME - TEEN", CANAL ANIME ONEGAI 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/c/3/dc3483b9f2b4c2a8689912023d27a3e9_icon.png" group-title="ANIME - TEEN", CANAL ANIME ONEGAI 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/c/3/dc3483b9f2b4c2a8689912023d27a3e9_icon.png" group-title="ANIME - TEEN", CANAL ANIME ONEGAI 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/c/3/dc3483b9f2b4c2a8689912023d27a3e9_icon.png" group-title="ANIME - TEEN", CANAL ANIME ONEGAI 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+
+
+
+
 
 
 
