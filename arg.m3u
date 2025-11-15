@@ -322,6 +322,14 @@ https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
 
 
 
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
+http://200.80.230.123:8000/play/a01s/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="LATINO",AMC HD
@@ -809,8 +817,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="TELECENTRO", La Nación +
-http://200.80.230.123:8000/play/a01s/index.m3u8
+
 
 
 
