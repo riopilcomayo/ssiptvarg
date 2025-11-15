@@ -830,6 +830,9 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL", TV Perú Noticias
 http://45.232.176.29:8000/play/a05i
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png/960px-Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" group-title="NOTICIAS INTERNACIONAL" , Canal N Peru
+http://38.199.6.1:17001/play/a0da/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", ABC PARAGUAY
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/aide2636/live.isml/.mpd
 
