@@ -1338,7 +1338,7 @@ http://200.80.230.123:8000/play/a06r/index.m3u8
 http://200.80.230.123:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="TELECENTRO", HBO Pop
-http://181.176.153.106:8090/play/a0qc/index.m3u8
+http://179.1.148.246:8888/play/a0j4/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="TELECENTRO", HBO Xtreme
 http://138.121.114.86:8000/play/a06g/index.m3u8
@@ -1378,7 +1378,7 @@ http://138.121.113.213:8000/play/a06n/index.m3u8
 http://200.80.230.123:8000/play/a07h/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="TELECENTRO", Animal Planet
-http://200.60.124.19:29000/play/a012/index.m3u8
+http://181.224.255.210:8001/play/a0lz/index.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="TELECENTRO", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -1386,7 +1386,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="TELECENTRO", El Gourmet
 http://200.80.230.123:8000/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg" audio-track="spa" group-title="TELECENTRO", AMC Series
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg" audio-track="spa" group-title="TELECENTRO", AMC Series
 http://200.115.96.61:9090/play/a0dj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="TELECENTRO", Metro
@@ -1411,7 +1411,7 @@ http://38.44.109.41:8003/play/a03f/index.m3u8
 http://200.80.230.123:8000/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="TELECENTRO" , STAR TVE
-http://45.228.234.133:8000/play/a060/index.m3u8
+http://38.41.8.1:8000/play/a0uq
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1sB4rWsE3tpUxTIH7Bykf8/40497fcccd89b75d19f8a44cac4314eb/66_EuropaEuropa.png?fm=webp&q=80" group-title="TELECENTRO" , Film & Arts
 http://200.80.230.123:8000/play/a030/index.m3u8
@@ -1420,23 +1420,23 @@ http://200.80.230.123:8000/play/a030/index.m3u8
 http://200.80.230.123:8000/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="TELECENTRO", E! 
-http://200.60.124.19:29000/play/a0aj/index.m3u8
+http://179.1.148.246:8888/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="TELECENTRO", MTV
-http://200.80.230.123:8000/play/a02m/index.m3u8
+http://179.1.148.246:8888/play/a0c7/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/9332819.jpg" group-title="TELECENTRO", Quiero Musica
-http://200.80.230.123:8000/play/a02n/index.m3u8
+http://190.104.67.135:234/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="TELECENTRO", CM
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="TELECENTRO" , MTV 00's
-http://45.5.151.151:8000/play/a0q1/index.m3u8
+http://179.1.148.246:8888/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="TELECENTRO", HTV
-http://143.0.67.77:8000/play/a02o/index.m3u8
+http://179.1.148.246:8888/play/a0fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="TELECENTRO" , MTV Hits
 http://200.115.120.1:8000/play/ca069/index.m3u8
