@@ -1238,8 +1238,8 @@ http://38.7.24.173:8000/play/a07f
 #EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="TELECENTRO", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png" group-title="TELECENTRO", TV5
-http://149.100.19.136:8000/play/a03z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png" group-title="TELECENTRO", TV5 Monde
+http://185.207.34.31:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="TELECENTRO", CineAr
 http://200.80.230.123:8000/play/a024/index.m3u8
@@ -1278,7 +1278,7 @@ http://200.80.230.123:8000/play/a0b3/index.m3u8
 http://190.60.37.154:45000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="TELECENTRO", Cinemax
-http://200.60.124.19:29000/play/a025/index.m3u8
+http://179.1.148.246:8888/play/a0d8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="TELECENTRO" , Studio Universal
 http://200.80.230.123:8000/play/a022/index.m3u8
@@ -1293,9 +1293,9 @@ http://200.80.230.123:8000/play/a01z/index.m3u8
 http://200.80.230.123:8000/play/a0aw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="TELECENTRO", ID
-http://200.60.124.19:29000/play/a0d9/index.m3u8
+http://179.1.148.246:8888/play/a0fb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="TELECENTRO", Adult Swin
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png"group-title="TELECENTRO", Adult Swin
 http://138.121.114.86:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74=w240-h480" group-title="TELECENTRO", Kanal D Drama
