@@ -1347,22 +1347,20 @@ http://138.121.114.86:8000/play/a06g/index.m3u8
 http://200.80.230.123:8000/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Cinema
-http://45.195.110.121:8000/play/a067/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Comedy
-http://45.195.110.121:8000/play/a04s/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/10.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Crime
-http://45.195.110.121:8000/play/a04r/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/17629.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Premiere
-http://45.195.110.121:8000/play/a04o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Premiere
-http://45.195.110.121:8000/play/a04p/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/67107.ts
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="TELECENTRO" , Universal Reality
-http://45.195.110.121:8000/play/a04q/index.m3u8
+http://liketv.pro:80/User1626/28TM4MEU66/11.ts
+
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="TELECENTRO", National Geographic
 http://200.80.230.123:8000/play/a0b8/index.m3u8
