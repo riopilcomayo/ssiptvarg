@@ -322,10 +322,13 @@ https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 group-title="LATINO",A&E HD
 http://179.1.148.246:8888/play/a0bu/index.m3u8
 #EXTINF:-1 group-title="LATINO",AMC HD
 http://179.1.148.246:8888/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="LATINO",AMC Series
+http://179.1.148.246:8888/play/a0k1/index.m3u8
 #EXTINF:-1 group-title="LATINO",ATRES SERIES HD
 http://179.1.148.246:8888/play/a0fs/index.m3u8
 #EXTINF:-1 group-title="LATINO",ATV
@@ -430,6 +433,8 @@ http://179.1.148.246:8888/play/a0jk/index.m3u8
 http://179.1.148.246:8888/play/a09r/index.m3u8
 #EXTINF:-1 group-title="LATINO",GLOBAL
 http://179.1.148.246:8888/play/a0aj/index.m3u8
+#EXTINF:-1 group-title="LATINO",GOL PERU
+http://179.1.148.246:8888/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="LATINO",Gol TV
 http://179.1.148.246:8888/play/a0aw/index.m3u8
 #EXTINF:-1 group-title="LATINO",Golden Edge
@@ -478,6 +483,8 @@ http://179.1.148.246:8888/play/a0bl/index.m3u8
 http://179.1.148.246:8888/play/a0fr/index.m3u8
 #EXTINF:-1 group-title="LATINO",MTV HD
 http://179.1.148.246:8888/play/a0c7/index.m3u8
+#EXTINF:-1 group-title="LATINO",Movistar Deportes
+http://179.1.148.246:8888/play/a06z/index.m3u8
 #EXTINF:-1 group-title="LATINO",MÆsChic
 http://179.1.148.246:8888/play/a09u/index.m3u8
 #EXTINF:-1 group-title="LATINO",NTN 24 Horas
@@ -556,10 +563,7 @@ http://179.1.148.246:8888/play/a07m/index.m3u8
 http://179.1.148.246:8888/play/a069/index.m3u8
 #EXTINF:-1 group-title="LATINO",Warner TV HD
 http://179.1.148.246:8888/play/a0jh/index.m3u8
-#EXTINF:-1 group-title="LATINO",ZoyTV Plus BO
-http://179.1.148.246:8888/play/zoyplus/index.m3u8
-#EXTINF:-1 group-title="LATINO",ZoyTV Sports 1 BO
-http://179.1.148.246:8888/play/zoysports/index.m3u8
+
 
 
 
