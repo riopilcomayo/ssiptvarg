@@ -2354,6 +2354,9 @@ https://nd106.republicaservers.com:4433/hls/c7632/1_0/index.m3u8?sessId=190245
 #EXTINF:-1 tvg-logo="https://api.raddios.com/api/radios/446/image/miniaturamovil?2020-04-28%2010:33:52" group-title="RADIO-CORDOBA", Sónica 105.9 FM Arias
 https://inliveserver.com:1936/9018/9018/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/mfproducciones.png" group-title="RADIO-CORDOBA", Mas 97.5 FM La Carlota
+https://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
+
 
 
 
