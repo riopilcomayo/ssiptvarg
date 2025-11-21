@@ -2306,9 +2306,6 @@ https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2025/04/WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="RADIO-CORDOBA", FM MAS TV LA CARLOTA CORDOBA
-http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO-CORDOBA", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 https://streamyes.alsolnet.com/goodradio/live/index.m3u8
 
@@ -2321,8 +2318,8 @@ https://videostream.shockmedia.com.ar:19360/fmsoledad885/fmsoledad885.m3u8
 #EXTINF:-1 tvg-logo="https://rcm88.com.ar/wp-content/uploads/2023/12/cropped-cropped-logo-web.png" group-title="RADIO-CORDOBA", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
 
-#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIO-CORDOBA", RADIO CARDINAL MIRAMAR CORDOBA
-https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341448598907723779/6ino3-md_400x400.jpg" group-title="RADIO-CORDOBA", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
 https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
@@ -2360,6 +2357,8 @@ https://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2023/01/cropped-loco-cardinal-120-pix-transparente.png" group-title="RADIO-CORDOBA", Cardinal C99 89.7 FM Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2023/01/cropped-loco-cardinal-120-pix-transparente.png" group-title="RADIO-CORDOBA", Cardinal C99 89.7 FM Miramar
+https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
 
 
 
