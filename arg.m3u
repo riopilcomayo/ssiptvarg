@@ -307,9 +307,6 @@ http://190.104.67.230:234/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://cdn.eldestapeweb.com/eldestape/012022/1642508119436/El-Trece-trastorno-conductora-TV.webp?cw=800&ch=450&extw=jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v4a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="NOTICIAS NACIONALES", MITRE
 https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8 
 
