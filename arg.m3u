@@ -1571,7 +1571,7 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
-https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
+https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
 https://panel.host-live.com:19360/8012/8012.m3u8
