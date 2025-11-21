@@ -1965,6 +1965,9 @@ https://tuvideoonline.com.ar:3858/live/argentolive.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio92siete.com/img/logo_1733922979.png" group-title="RADIO-PCIA BS AS", 92 Siete 92.7 FM Chivilcoy
 https://inliveserver.com:1936/9000/9000/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmenelaire.com.ar/imagenes/banner.png" group-title="RADIO-PCIA BS AS", Un Sueño en el Aire 103.3 FM Ranchos 
+https://videostream.shockmedia.com.ar:19360/1033tvonline/1033tvonline.m3u8
+
 
 
 
