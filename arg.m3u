@@ -2357,6 +2357,9 @@ https://inliveserver.com:1936/9018/9018/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/mfproducciones.png" group-title="RADIO-CORDOBA", Mas 97.5 FM La Carlota
 https://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2023/01/cropped-loco-cardinal-120-pix-transparente.png" group-title="RADIO-CORDOBA", Cardinal C99 89.7 FM Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
 
 
 
