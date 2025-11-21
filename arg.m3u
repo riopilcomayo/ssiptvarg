@@ -2240,7 +2240,7 @@ https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist
 https://videohd.live:19360/8078/8078.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="CORDOBA", CEMDO TV
-https://inliveserver.com:1936/12058/12058/playlist.m3u8 
+https://inliveserver.com:1936/12058/12058/chunklist_w1366864953.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEc2bnJpXYBs50v7pbsoyQzCIGE2B7sjuTg&s" group-title="CORDOBA", COVISAR
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8  
