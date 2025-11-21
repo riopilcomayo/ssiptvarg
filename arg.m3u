@@ -1983,6 +1983,9 @@ https://videohd.live:19360/8110/8110.m3u8
 #EXTINF:-1 tvg-logo="https://radioetermdp.com/assets/logotipo-w-g-3UXwGHxX.png" group-title="RADIO-PCIA BS AS", Eter 90.5 FM Mar del Plata 
 https://videostream.shockmedia.com.ar:19360/radioetermdp/radioetermdp.m3u8
 
+#EXTINF:-1 tvg-logo="https://fullmediosproductora.com.ar/imagenes/banner.png" group-title="RADIO-PCIA BS AS", Full Medios 90.1 FM Zárate
+https://videostream.shockmedia.com.ar:19360/fullmediosproductora/fullmediosproductora.m3u8
+
 
 
 
