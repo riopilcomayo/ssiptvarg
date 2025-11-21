@@ -1968,6 +1968,9 @@ https://inliveserver.com:1936/9000/9000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmenelaire.com.ar/imagenes/banner.png" group-title="RADIO-PCIA BS AS", Un Sueño en el Aire 103.3 FM Ranchos 
 https://videostream.shockmedia.com.ar:19360/1033tvonline/1033tvonline.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cadena103.com.ar/wp-content/uploads/2017/07/encabezado-fondo.png" group-title="RADIO-PCIA BS AS", Cadena 103 103.1 FM Olavarría 
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
+
 
 
 
