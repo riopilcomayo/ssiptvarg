@@ -2296,6 +2296,9 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
+https://online.coopmorteros.coop/radiourbana/canal01.m3u8
+
 
 
 
@@ -2331,9 +2334,6 @@ https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmradiorepublica.com.ar/Content/ImagenesHome/radio-larga-recortada.png" group-title="RADIO-CORDOBA", FM REPUBLICA 95.5 FM MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="RADIO-CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
-https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmmitierra.com.ar/wp-content/uploads/2024/04/FM-MI-TIERRA-logo-chico.png" group-title="RADIO-CORDOBA", FM Mi Tierra 101.1 FM Rio Tercero
 https://stream.trixserver.com:3604/live/uv110live.m3u8
