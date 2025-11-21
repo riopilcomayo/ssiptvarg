@@ -2994,7 +2994,7 @@ https://panel.host-live.com:19360/linktv/linktv.m3u8
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10_720p1900kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ivisiontv.ar/images/sitio/logo.png" group-title="SANTA FE" , IVISION TV
-https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8
+https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/track_0_3500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
 https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
