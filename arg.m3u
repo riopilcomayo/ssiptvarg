@@ -2158,19 +2158,22 @@ https://stmv6.voxtvhd.com.br/canal5pilar/canal5pilar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="CORDOBA", COOP CAROYA
 https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fm-comunicar.com.ar/static/custom/logo.png?t=2025-11-21+03%3A00%3A03.813929" group-title="CORDOBA", Comunicar CTV 907 Colonia Caroya
+https://panel.host-live.com:19360/canal907/canal907.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y29VYVkoft9EYK2Du_OGAtmqCv8N9aSISw&s" group-title="CORDOBA", CEOSCA
 https://smt-usr-edge01.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="CORDOBA", CANAL COONET TV
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="CORDOBA" ,MULTIMEDIOS RIO PRIMERO
+#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="CORDOBA" , MULTIMEDIOS RIO PRIMERO
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="CORDOBA", NEXO SMC MULTIMEDIOS
 https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="CORDOBA" ,Canal Cooperativo Alicia
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="CORDOBA" , Canal Cooperativo Alicia
 https://smt-usr-edge01.sensa.com.ar/output/LVR/CCAD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="CORDOBA" , CEOSCA-Camilo Aldao
@@ -2297,6 +2300,11 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 
@@ -2317,9 +2325,6 @@ https://videostream.shockmedia.com.ar:19360/fmsoledad885/fmsoledad885.m3u8
 
 #EXTINF:-1 tvg-logo="https://rcm88.com.ar/wp-content/uploads/2023/12/cropped-cropped-logo-web.png" group-title="RADIO-CORDOBA", RADIO CIUDAD 100.3 FM CORONEL MOLDES
 https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341448598907723779/6ino3-md_400x400.jpg" group-title="RADIO-CORDOBA", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
 https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
@@ -2359,6 +2364,8 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiocardinal.com.ar/wp-content/uploads/2023/01/cropped-loco-cardinal-120-pix-transparente.png" group-title="RADIO-CORDOBA", Cardinal C99 89.7 FM Miramar
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/C99MD/output.mpd
+
+
 
 
 
