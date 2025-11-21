@@ -1992,6 +1992,9 @@ https://nd106.republicaservers.com:4433/hls/c6618/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sitesv/AAzXCkdeYZp2vPlFN63I-JHAB37e8MhUYraHtWXRJs85UAE97-HDYVVflNKC48l4ZsRnhWk3z7dw-Uvo4XCkzrX6KOoL179aeUwlk9ZU17n3_W6hKwPNPf0dKFnqlo96MJmw4auGxuIC7a8YqZ05D6c2ifBu72k0JnJX7dnPgXYPSTtJPWBtodedMSTFtcc=w16383" group-title="RADIO-PCIA BS AS", Lamil35 88.1 FM Campana 
 https://live20.bozztv.com/giatv/giatv-mylamil35tv/mylamil35tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lu22.com.ar/img/logo-footer.png?v=1.26" group-title="RADIO-PCIA BS AS", LU22 Tandil 1140 AM Tandil
+https://videostream.shockmedia.com.ar:19360/lu22radiotandil/lu22radiotandil.m3u8
+
 
 
 
