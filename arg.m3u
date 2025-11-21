@@ -1871,6 +1871,9 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 tvg-logo="https://canuelasnoticias.com/wp-content/uploads/2024/05/canuelas-noticias.gif" group-title="PCIA BS AS", CANUELAS NOTICIAS
 https://live20.bozztv.com/akamaissh101/ssh101/streamcnoticias/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="PCIA BS AS", Celta TV 9 Tres Arroyos
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+
 
 
 
